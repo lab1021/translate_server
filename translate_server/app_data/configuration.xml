@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <userdb>users.db</userdb>
+  <databasepath>
+    <first>100.xml</first>
+    <current>100.xml</current>
+    <last>100.xml</last>
+  </databasepath>
+</configuration>
